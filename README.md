@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I'm Ankit, a passionate software developer with expertise in C#, .NET, SSMS, and MySQL. I enjoy solving complex problems and building scalable applications.<br><br>🚀 What I Work On:<br>🔹 .NET & C# Development – Building robust applications and services<br>🔹 Database Management – Optimizing databases using SSMS, MySQL, and Oracle<br>🔹 Web Development – Working with .NET Core MVC, Web Api, Blazor Hybrid and WordPress<br>🔹 AI & ML – Exploring predictive analytics<br><br>📚 Currently Learning:<br>✅ Advanced C# for system-level programming<br>✅ Enhancing .NET MVC , Blazor & WASM skills<br>✅ AI/ML algorithms for real-world applications
+Hi there! I'm Ankit, a passionate software developer with expertise in C#, .NET, SSMS, and MySQL. I enjoy solving complex problems and building scalable applications.<br><br> What I Work On:<br>🔹 .NET & C# Development – Building robust applications and services<br>🔹 Database Management – Optimizing databases using SSMS, MySQL, and Oracle<br>🔹 Web Development – Working with .NET Core MVC, Web Api, Blazor Hybrid and WordPress<br>🔹 AI & ML – Exploring predictive analytics<br><br>📚 Currently Learning:<br>✅ Advanced C# for system-level programming<br>✅ Enhancing .NET MVC , Blazor & WASM skills<br>✅ AI/ML algorithms for real-world applications
 
 
 
